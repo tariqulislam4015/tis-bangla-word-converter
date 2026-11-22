@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=7.4
+pyinstaller>=6.3
+pillow>=10        # only needed to regenerate brand assets (packaging/make_assets.py)
